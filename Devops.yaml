@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-devops
-        image: antony0618/simple-devops:369
+        image: g10n92/servicejava:369
         ports:
         - containerPort: 8080
 ---
